@@ -215,7 +215,7 @@ export default function ChatInput () {
           />
         </div>
         <footer className='text-center text-sm text-gray-700 dark:text-gray-300 px-4 pb-6'>
-          ©️{new Date().getFullYear()}&nbsp;{" "}&nbsp;基于第三方提供的接口
+          ©️{new Date().getFullYear()}&nbsp;{" "}&nbsp;
         </footer>
       </div>
     </div>
