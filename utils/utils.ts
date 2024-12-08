@@ -1,5 +1,5 @@
 import { Chat } from '../types/chat';
-
+console.log('测试提交')
 export function groupByDate(chatList: Chat[]) {
 	const groupMap = new Map<string, Chat[]>();
 	chatList.forEach((item) => {
